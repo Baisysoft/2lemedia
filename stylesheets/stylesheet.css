@@ -1,5 +1,6 @@
 body {
     text-align: center;
+    font-family: 'Roboto', sans-serif;
 }
 
 #container {
@@ -7,6 +8,14 @@ body {
     width: 960px;
 }
 
-#bigcircle {
-    margin-top: 80px;
+.star {
+    cursor: pointer;
+}
+
+.tooltip {
+    position: relative;
+    color: #ff0042;
+    font-size: 1.4em;
+    font-weight: bold;
+    width: 160px;
 }
