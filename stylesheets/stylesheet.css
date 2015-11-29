@@ -1,5 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif;
+    line-height: 1.6em;
     margin: 0;
 }
 
@@ -18,4 +19,9 @@ body {
     font-size: 1.4em;
     font-weight: bold;
     width: 160px;
+}
+
+.clearfix {
+    overflow: auto;
+    clear: both;
 }
