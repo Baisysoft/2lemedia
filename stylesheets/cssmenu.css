@@ -104,7 +104,7 @@
   -webkit-transform-origin: 50% 0;
   -moz-transform-origin: 50% 0;
   transform-origin: 50% 0;
-  -ms-transform: translateY(- -18px);
+  /*-ms-transform: translateY(- -18px);*/
 }
 #cssmenu > ul > li:hover > a::before,
 #cssmenu > ul > li > a:hover::before {
