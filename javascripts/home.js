@@ -2,7 +2,7 @@ var stars = [
     {label: "Home", link: '/'},
     {label: "About us", link: 'pages/about-us.html'},
     {label: "Programmes", link: 'pages/programmes.html'},
-    {label: "Why 2lE?", link: 'pages/why-2le.html'},
+    {label: "Why 2LE?", link: 'pages/why-2le.html'},
     {label: "Contact us", link: 'pages/contact.html'}
 ];
 var D2R = Math.PI / 180;
