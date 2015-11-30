@@ -53,3 +53,22 @@ body {
     overflow: auto;
     clear: both;
 }
+
+.programme {
+    margin-top: 2em;
+}
+
+.programme img {
+    float: left;
+    margin-right: 40px;
+    max-width: 300px;
+}
+
+.programme img + p {
+    padding-top: 1em;
+}
+
+.why2le img {
+    float: left;
+    margin-right: 40px;
+}
