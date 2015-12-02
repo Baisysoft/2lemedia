@@ -1,4 +1,5 @@
 var stars = [
+    {label: "Home", link: 'index.html'},
     {label: "About us", link: 'pages/about-us.html'},
     {label: "Programmes", link: 'pages/programmes.html'},
     {label: "Why 2LE?", link: 'pages/why-2le.html'},
